@@ -25,6 +25,7 @@ class App extends Component {
 
     return (
       <div className="App">
+        <h1>What if kittens were fruits?</h1>
         <SearchBox
           placeholder="Search Cat"
           handleChange={(event) =>
